@@ -9,3 +9,5 @@ ehthumbs.db
 Thumbs.db
 .history
 *.toml
+node_modules
+package-lock.json
